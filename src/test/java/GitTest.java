@@ -3,7 +3,7 @@ public class GitTest {
         System.out.println("100_000.00$");
         System.out.println("10");
         System.out.println("Larisa");
-        System.out.println("100");
+        System.out.println("TechtorialB7");
 
     }
 }
